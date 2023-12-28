@@ -1,0 +1,25 @@
+.breadcrumbs {
+    height: 40px;
+    padding: 0 14px;
+}
+
+.breadcrumbs > .nav-wrapper > div {
+    line-height: 40px;
+}
+
+.breadcrumb,
+.breadcrumb::before {
+    color: #424242 !important;
+}
+
+.breadcrumb {
+    font-size: 14px;
+}
+
+.breadcrumb::before {
+    font-size: 15px;
+}
+
+.breadcrumbs a:hover {
+    font-weight: 600;
+}

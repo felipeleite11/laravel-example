@@ -1,0 +1,109 @@
+@import url("navbar.css");
+
+@import url("home.css");
+
+@import url("breadcrumbs.css");
+
+@import url("table.css");
+
+@import url("helpers.css");
+
+@import url("card.css");
+
+:root {
+    --purple1: #A96BB7;
+    --purple2: #7168CD;
+    --blue: #4367E6;
+    --edit: #2196f3;
+    --detail: #f9a825;
+    --delete: #f44336;
+}
+
+html {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    background-color: #FFF;
+}
+
+body > main {
+    margin: 50px 0;
+    min-height: 79vh;
+    padding: 20px 0;
+}
+
+body > main.container > .card {
+    min-height: 70vh;
+}
+
+footer {
+    width: 100%;
+    margin-top: auto;
+    background-color: #4367E6;
+    height: 40px;
+    color: #FFF;
+}
+
+footer .container {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 12px;
+}
+
+.dropdown-content {
+    width: auto !important;
+}
+
+.datepicker-date-display,
+.timepicker-digital-display {
+    background-color: var(--blue) !important;
+}
+
+.empty-placeholder {
+    text-align: center;
+    color: #0006;
+    margin: 50px !important;
+}
+
+button {
+    width: fit-content;
+}
+
+.btn-flat:hover {
+    background-color: #0001;
+}
+
+input[type=date]::-webkit-inner-spin-button,
+input[type=date]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+#chatbot {
+    position: fixed;
+    right: 14px;
+    bottom: 0;
+    border-radius: 27px 27px 0 0;
+    border: solid #ddd 2px;
+    display: none;
+}
+
+#chat-toggle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0 4px 5px 0 rgb(0 0 0 / 14%), 0 1px 10px 0 rgb(0 0 0 / 12%), 0 2px 4px -1px rgb(0 0 0 / 30%);
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+}
+

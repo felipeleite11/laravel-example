@@ -1,0 +1,11 @@
+{
+  "name": "tse-planilhas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "tse": "node index-tse.js",
+      "edu": "node index-edu.js",
+      "ibge": "node index-ibge.js"
+  }
+}

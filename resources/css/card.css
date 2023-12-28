@@ -1,0 +1,14 @@
+.card-content > h1:first-child {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 4px 10px 24px;
+}
+
+.card-action {
+    position: absolute !important;
+    bottom: 0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    width: calc(100% - .75rem - 10px);
+}

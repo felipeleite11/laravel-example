@@ -1,0 +1,50 @@
+.brand-logo {
+    font-size: 20px !important;
+}
+
+.nav-options {
+    height: 64px;
+}
+
+.nav-options > li,
+.nav-options > li > a {
+    height: 100%;
+}
+
+.collapsible-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 32px !important;
+}
+
+.sidenav .collapsible-body {
+    padding: 0 16px !important;
+}
+
+.sidenav .collapsible-body a {
+    border-left: solid 2px #E6E6E6 !important;
+}
+
+#greeting-container {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    color: #FFF;
+    height: 60px;
+    padding: 0 16px;
+    font-size: 12px;
+}
+
+#greeting-container span {
+    line-height: 18px;
+}
+
+#greeting-container span:nth-child(1) {
+    font-weight: bold;
+    font-size: 15px;
+}
