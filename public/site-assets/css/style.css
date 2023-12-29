@@ -2401,10 +2401,16 @@ p {
       max-width: 680px;
       width: 100%; }
 
+      #slider-home {
+        width: 100%;
+        height: 550px;
+      }
+
 .slider-content {
   position: relative;
   z-index: 9;
   padding-top: 240px;
+  /* padding-top: 140px; */
   padding-bottom: 200px; }
   @media (max-width: 767px) {
     .slider-content {

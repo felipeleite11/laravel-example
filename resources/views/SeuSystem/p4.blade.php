@@ -11,25 +11,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="/site-assets/images/favicon.png" type="image/png">
         
     <!--====== Magnific Popup CSS ======-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/site-assets/css/magnific-popup.css">
         
     <!--====== Slick CSS ======-->
-    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="/site-assets/css/slick.css">
         
     <!--====== Line Icons CSS ======-->
-    <link rel="stylesheet" href="assets/css/LineIcons.css">
+    <link rel="stylesheet" href="/site-assets/css/LineIcons.css">
         
     <!--====== Bootstrap CSS ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/site-assets/css/bootstrap.min.css">
     
     <!--====== Default CSS ======-->
-    <link rel="stylesheet" href="assets/css/default.css">
+    <link rel="stylesheet" href="/site-assets/css/default.css">
     
     <!--====== Style CSS ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="/site-assets/css/style.css">
     
 </head>
 
@@ -64,7 +64,7 @@
                     <nav class="navbar navbar-expand-lg">
                        
                         <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/logo-orig.png" style="width: 270px" alt="Logo">
+                            <img src="/site-assets/images/logo-orig.png" style="width: 270px" alt="Logo">
                         </a>
                         
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
@@ -94,36 +94,16 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="section-title text-center pb-10">
-                        <h3 class="title mt-5">Gestão Parlamentar</h3>
-                            <ul>
-                                <li>Elaboração do Planejamento Estratégico do Mandato Parlamentar e Plano de Ação Bienal;</li>
-                                <li>Planejamento e Execução de emendas impositivas e cooptadas;</li>
-                                <li>Assessorar o Parlamentar nas atividades da Mesa Diretora, Plenário e Comissões 
-                                    da Unidade Legislativa, órgãos do Poder Executivo, Judiciário e da Administração 
-                                    Pública, em matéria legislativa;</li>
-                                <li>Prospectar, analisar e monitorar as informações legislativas do interesse do 
-                                    Parlamentar;</li>
-                                <li>Elaborar estratégias sobre matérias legislativas em tramitação na Unidade 
-                                    Legislativa e no Poder Executivo;
-                                </li>
-                                <li>Elaborar minutas de proposições, pareceres, emendas, substitutivos, 
-                                    requerimentos, recursos sobre proposições, etc;</li>
-                                <li>Promover e acompanhar reuniões das Comissões Técnicas e Audiências Públicas 
-                                    da Unidade Legislativa, bem como do Executivo e do Judiciário;</li>
-                                <li>Responder consultas técnicas sobre assuntos do Legislativo, em especial 
-                                    sobre processo e técnica legislativa, formulação de Projetos de Lei, de 
-                                    Pareceres de Comissões, Veto, etc;</li>
-                                <li>Motivar o Parlamentar para o aprimoramento da legislação local, regional e 
-                                    brasileira, naquilo em que o mesmo pode contribuir com sua técnica e prática 
-                                    legislativa;</li>
-                                <li>Assessoramento na construção de emendas a LDO e LOA, bem como a 
-                                    indicação estratégica de ações junto aos órgãos, conforme a base política do 
-                                    parlamentar;
-                                    </li>
-                                <li>Captação e gerenciamento de recursos e prospecção de capital eleitoral;</li>
-                                <li>Disponibilização de sistema de gerenciamento de dados por município para 
-                                    melhor acesso do parlamentar.</li>
-                            </ul>
+                        <h3 class="title mt-5">Consultoria de Negócios</h3>
+                            <p class="text">A SeuSystem busca potencializar a gestão das principais áreas de uma 
+                            empresa, sua equipe de estrategistas, trabalha para solucionar seus problemas mais 
+                            difíceis e capturar suas maiores oportunidades.</p>
+
+                            <p class="text">A SeuSysteminicia uma nova fase no desenvolvimento e na gestão de negócios 
+                                e recursos captados em mercados da B3, mercado livre de energia, leilões, cidades 
+                                inteligentes e BioCarbono.</p>
+
+                            <p class="text">Tudo para manter a maior conquista de todas: Sua confiança</p>
                     </div> 
                 </div>
             </div> 
@@ -157,7 +137,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="footer-logo text-center">
-                        <a class="mt-30" href="index.html"><img src="assets/images/logo.png" style="width: 250px" alt="Logo"></a>
+                        <a class="mt-30" href="index.html"><img src="/site-assets/images/logo.png" style="width: 250px" alt="Logo"></a>
                     </div> 
                     <ul class="social text-center mt-60">
                         <li><a href="http://facebook.com/seusystem" target="_blank"><i class="lni lni-facebook-filled"></i></a></li>
@@ -187,32 +167,32 @@
 
 
     <!--====== Jquery js ======-->
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
+    <script src="/site-assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="/site-assets/js/vendor/modernizr-3.7.1.min.js"></script>
     
     <!--====== Bootstrap js ======-->
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="/site-assets/js/popper.min.js"></script>
+    <script src="/site-assets/js/bootstrap.min.js"></script>
     
     <!--====== Slick js ======-->
-    <script src="assets/js/slick.min.js"></script>
+    <script src="/site-assets/js/slick.min.js"></script>
     
     <!--====== Magnific Popup js ======-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/site-assets/js/jquery.magnific-popup.min.js"></script>
     
     <!--====== Ajax Contact js ======-->
-    <script src="assets/js/ajax-contact.js"></script>
+    <script src="/site-assets/js/ajax-contact.js"></script>
     
     <!--====== Isotope js ======-->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="/site-assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="/site-assets/js/isotope.pkgd.min.js"></script>
     
     <!--====== Scrolling Nav js ======-->
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/scrolling-nav.js"></script>
+    <script src="/site-assets/js/jquery.easing.min.js"></script>
+    <script src="/site-assets/js/scrolling-nav.js"></script>
     
     <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
+    <script src="/site-assets/js/main.js"></script>
     
     
 </body>

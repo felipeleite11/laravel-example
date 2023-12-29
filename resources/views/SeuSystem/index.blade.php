@@ -107,11 +107,6 @@
                                 <div class="slider-content">
                                     <h1 class="title">Para sua empresa ir mais longe</h1>
                                     <p class="text">Consultoria especializada em estratégias, prospecção e negócios.</p>
-                                    <ul class="slider-btn rounded-buttons">
-                                        <!-- <li>
-                                            <a class="main-btn rounded-one" href="#">SAIBA MAIS</a>
-                                        </li> -->
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +117,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
 
             <!-- <a class="carousel-control-prev" href="#carouselThree" role="button" data-slide="prev">
@@ -157,7 +151,7 @@
                         </div>
                         <div class="features-content">
                             <p class="text">Cadastro e análise de enquadramento e seleção das propostas apresentadas pelos órgãos ou entidades da administração pública direta ou indireta, de qualquer esfera do...</p>
-                            <a class="features-btn" href="p1.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="1">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -169,7 +163,7 @@
                         </div>
                         <div class="features-content">
                             <p class="text">Realizados na Plataforma +Brasil, Sismob, Simec, entre outros, os atos e os procedimentos relativos à formalização...</p>
-                            <a class="features-btn" href="p2.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="2">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -180,8 +174,8 @@
                             <h4 class="features-title"><a href="p3.html">Assessoramento</a></h4>
                         </div>
                         <div class="features-content">
-                            <p class="text">Quanto à execução dos projetos e Políticas Públicas Educacionais: Acompanhamento quanto aos programas ou ações criadas pelo governo nas esferas estaduais e federais que garantam...</p>
-                            <a class="features-btn" href="p3.html">SAIBA MAIS</a>
+                            <p class="text">Assessoria especializadas nas elaborações e aprovações de Projetos Econômicos e Financeiros, visando obter para a classe empresarial o enquadramento nos benefícios fiscais ...</p>
+                            <a class="features-btn" href="3">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -193,7 +187,7 @@
                         </div>
                         <div class="features-content">
                             <p class="text">A SeuSystem busca potencializar a gestão das principais áreas de uma empresa, sua equipe de estrategistas, trabalha para solucionar seus problemas mais difíceis e capturar suas maiores oportunidades.</p>
-                            <a class="features-btn" href="p4.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="4">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -205,7 +199,7 @@
                         </div>
                         <div class="features-content">
                             <p class="text">A SeuSystem, desenvolve atividades para elaboração do Planejamento Estratégico, treinamentos acerca de matéria que apresente natureza constitucional, jurídica, legal, regimental, financeira ou orçamentária.</p>
-                            <a class="features-btn" href="p5.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="5">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -219,7 +213,7 @@
                             <p class="text">Acompanhamento das menções à empresa e a outros termos de interesse
                                 nos canais digitais, a fim de conhecer melhor as impressões dos usuários sobre seus
                                 produtos, concorrentes e o mercado...</p>
-                            <a class="features-btn" href="p6.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="6">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -231,7 +225,7 @@
                         </div>
                         <div class="features-content">
                             <p class="text">Licenciamento Ambiental, estudo e elaboração de Laudo Hidrogeológico, Outorga de Recursos Hídricos, análise de água, estudo geológico, alocação de poços, CAR, cadastramento multifinalitário, plano de aproveitamento econômico...</p>
-                            <a class="features-btn" href="p7.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="7">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -243,7 +237,7 @@
                             </div>
                         <div class="features-content">
                             <p class="text">Elaboração do Planejamento Estratégico do Mandato Parlamentar e Plano de Ação Bienal; Planejamento e Execução de emendas impositivas e cooptadas; Assessorar o Parlamentar nas atividades da Mesa Diretora...</p>
-                            <a class="features-btn" href="p8.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="8">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -255,7 +249,7 @@
                             </div>
                         <div class="features-content">
                             <p class="text">Projeto e construção de sites e sistemas de informação voltados a todo tipo de negócio.</p>
-                            <a class="features-btn" href="p9.html">SAIBA MAIS</a>
+                            <a class="features-btn" href="9">SAIBA MAIS</a>
                         </div>
                     </div> <!-- single features -->
                 </div>
@@ -469,6 +463,23 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                        <div class="team-image">
+                            <img src="/site-assets/images/marjorie.jpeg" alt="Team">
+                        </div>
+                        <div class="team-content">
+                            <div class="team-social">
+                                <ul class="social">
+                                    <li><a href="#" target="_blank"><i class="lni lni-linkedin-original"></i></a></li>
+                                </ul>
+                            </div>
+                            <h4 class="team-name"><a href="#">Marjorie Fonseca</a></h4>
+                            <span class="sub-title">Advogada</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -505,8 +516,6 @@
                         <li><a href="http://facebook.com/seusystem" target="_blank"><i class="lni lni-facebook-filled"></i></a></li>
                         <li><a href="http://twitter.com/seusystem" target="_blank"><i class="lni lni-twitter-original"></i></a></li>
                         <li><a href="http://instagram.com/seusystem" target="_blank"><i class="lni lni-instagram-original"></i></a></li>
-                        <li><a href="http://linkedin.com/seusystem" target="_blank"><i class="lni lni-linkedin-original"></i></a></li>
-                        <!-- <li><a href="http://api.whatsapp.com/send?1=pt_BR&phone=5591991007676"><i class="lni lni-whatsapp-original"></i></a></li> -->
                     </ul>
                     <div class="footer-support text-center">
                         <span class="number">(91) 99100-7676</span>
