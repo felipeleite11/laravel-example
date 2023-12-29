@@ -26,7 +26,9 @@ use App\Http\Controllers\{
 };
 use App\Http\Middleware\Auth;
 
-Route::get('/{id?}', [SeuSystemController::class, 'index']);
+Route::get('/', [SeuSystemController::class, 'home']);
+
+Route::get('/{id?}', [SeuSystemController::class, 'index'])->whereNumber('id');
 
 // Authentication routes
 Route::prefix('sie')->group(function() {

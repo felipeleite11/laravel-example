@@ -11,4 +11,8 @@ class SeuSystemController extends Controller
             return view('SeuSystem.p'.$id);
         }
     }
+
+    public function home() {
+        return view('SeuSystem.home');
+    }
 }
